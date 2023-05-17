@@ -13,7 +13,7 @@
 <p align="center">
     <b>ᐯ丨丂丨ㄒㄖ尺丂 匚ㄖㄩ几ㄒ ㄖ千 爪ㄚ 卩尺ㄖ千丨ㄥ乇</b><br>
   <p align="center">  
- ✯ <img align="middle" src="https://profile-counter.glitch.me/AnnexOp/count.svg" /> ✯
+ ✯ <img align="middle" src="https://profile-counter.glitch.me/TommyXkid/count.svg" /> ✯
 </p>
 
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
